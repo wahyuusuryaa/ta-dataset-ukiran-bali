@@ -22,9 +22,6 @@ Berikut adalah beberapa ornamen ukiran Bali yang ada pada repositori ini:
 10. Patra Banci
 11. Patra Mesir
 12. Patra Pipid
-13. Patra Samblung
-14. Patra Sari
-
-Total dataset yang saya peroleh: 215 files
+13. Patra Sari
 
 Data ornamen diatas sudah divalidasi kebenarannya oleh salah satu dosen dari Intitut Seni Indonesia Denpasar, yaitu Bapak Cokorda Alit Artawan, S.Sn., M.Sn.
