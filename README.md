@@ -25,3 +25,5 @@ Berikut adalah beberapa ornamen ukiran Bali yang ada pada repositori ini:
 13. Patra Sari
 
 Data ornamen diatas sudah divalidasi kebenarannya oleh salah satu dosen dari Intitut Seni Indonesia Denpasar, yaitu Bapak Cokorda Alit Artawan, S.Sn., M.Sn.
+
+Referensi : https://github.com/alamehan/skripsi-cnn-anggrek
