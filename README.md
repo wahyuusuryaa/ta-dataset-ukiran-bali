@@ -11,18 +11,14 @@ Tempat yang saya kunjungi untuk mencari dataset:
 
 Berikut adalah beberapa ornamen ukiran Bali yang ada pada repositori ini:
 1. Karang Boma
-2. Karang Bunga
-3. Karang Gajah
-4. Karang Goak
-5. Karang Tapel
-6. Batu Batuan
-7. Kakul Kakulan
-8. Mas Masan
-9. Mote Motean
-10. Patra Banci
-11. Patra Mesir
-12. Patra Pipid
-13. Patra Sari
+2. Karang Gajah
+3. Karang Goak
+4. Karang Tapel
+5. Batu Batuan
+6. Kakul Kakulan
+7. Patra Mesir
+8. Patra Pipid
+9. Patra Sari
 
 Data ornamen diatas sudah divalidasi kebenarannya oleh salah satu dosen dari Intitut Seni Indonesia Denpasar, yaitu Bapak Cokorda Alit Artawan, S.Sn., M.Sn., yang sudah 17 tahun mengajar pada bidang Ornamen Tradisional Bali/Patra Bali/Komik Tradisi Bali.
 
