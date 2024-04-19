@@ -20,6 +20,8 @@ Berikut adalah beberapa ornamen ukiran Bali yang ada pada repositori ini:
 8. Patra Pipid
 9. Patra Sari
 
+Distribusi data tidak sama rata, oleh karena itu pada saat training data dilakukan augmentasi data.
+
 Data ornamen diatas sudah divalidasi kebenarannya oleh salah satu dosen dari Intitut Seni Indonesia Denpasar, yaitu Bapak Cokorda Alit Artawan, S.Sn., M.Sn., yang sudah 17 tahun mengajar pada bidang Ornamen Tradisional Bali/Patra Bali/Komik Tradisi Bali.
 
 Referensi : https://github.com/alamehan/skripsi-cnn-anggrek
