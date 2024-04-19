@@ -7,7 +7,7 @@ Tempat yang saya kunjungi untuk mencari dataset:
 - Art Centre Denpasar
 - Puspem Badung
 - Rumah Topeng Gianyar
-- dan beberapa pelinggih/sanggah/puri yang ada disekitar lingkungan rumah saya
+- dan beberapa pelinggih/sanggah/puri yang ada disekitar lingkungan rumah
 
 Berikut adalah beberapa ornamen ukiran Bali yang ada pada repositori ini:
 1. Karang Boma
